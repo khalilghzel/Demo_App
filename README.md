@@ -12,7 +12,7 @@ so in this app i've used :
 <li> Navigation Components </li>
 <li> BroadCast Receiver </li>
 <li>Type Convertors (room)</li>
-<li> Network Bound Recources , DiffUtil , FLOW, LIVEDATA ,  </li>
+<li> Network Bound Resources , DiffUtil , FLOW, LIVEDATA ,  </li>
 
 ![305408894_1118332739060661_4374335849535811787_n](https://user-images.githubusercontent.com/36602745/189164977-d4b03362-9840-487e-8c61-47ebab88fac8.jpg)
 ![305794856_442630804510651_5334397681174498177_n](https://user-images.githubusercontent.com/36602745/189164982-6c4ec9de-44e7-4f1a-9551-50973471a60f.jpg)
