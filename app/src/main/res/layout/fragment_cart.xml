@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_color"
+    android:orientation="vertical">
+<androidx.core.widget.NestedScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/mList"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/quantity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:fontFamily="@font/quicksand_bold"
+                android:gravity="center"
+                android:textColor="@color/grey_700"
+                android:textSize="14sp" />
+            <TextView
+                android:id="@+id/total_cashout_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_gravity="end"
+                android:fontFamily="@font/cairo_bold"
+                android:text="0$"
+                android:textColor="@color/red_A200"
+                android:textSize="16sp" />
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:text="Cashout $$"
+                android:fontFamily="@font/quicksand_bold"
+                android:background="@drawable/clickable_btn_cashout"
+                android:textColor="@color/premium"
+                android:layout_margin="5dp"
+                android:layout_gravity="end"/>
+            <View
+                android:layout_width="0dp"
+                android:layout_height="200dp" />
+        </LinearLayout>
+
+
+        <com.wbconcept.myapplication.Util.ViewLoadingDotsGrow
+            android:id="@+id/progress"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true"
+            android:background="@color/red_A400" />
+
+    </RelativeLayout>
+
+</androidx.core.widget.NestedScrollView>
+
+
+
+</LinearLayout>

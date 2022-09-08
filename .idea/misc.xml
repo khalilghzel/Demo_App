@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/drawable/btn_purple_a400.xml" value="0.218" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/drawable/checked.xml" value="0.157" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/drawable/clickable_btn.xml" value="0.1765" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/drawable/clickable_btn_cashout.xml" value="0.145" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/drawable/custom_checkbox.xml" value="0.157" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/drawable/favorit_bg.xml" value="0.194" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.1765" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/drawable/ic_done.xml" value="0.12" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/drawable/ic_ffavorite.xml" value="0.158" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/drawable/ic_search.xml" value="0.1835" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/drawable/ic_user.xml" value="0.1835" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/drawable/radius_bg_blue.xml" value="0.12" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/drawable/radius_gradient_blue.xml" value="0.1835" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/drawable/radiusbg.blue.xml" value="0.12" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/drawable/rounded_border_text_view.xml" value="0.1835" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/drawable/rounded_mini_btn.xml" value="0.157" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/drawable/rounded_mini_btn_add.xml" value="0.158" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/drawable/rounded_transparent.xml" value="0.1765" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/drawable/unchecked.xml" value="0.157" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/layout/bottom_sheet.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/layout/fragment_cart.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/layout/fragment_favorits.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/layout/fragment_home.xml" value="0.1640625" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/layout/fragment_profile.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/layout/fragment_search.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/layout/home_screen_frag.xml" value="0.2734375" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/layout/item_cart.xml" value="0.264" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/layout/item_product_home.xml" value="0.2" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/layout/itemcategory.xml" value="0.264" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/layout/login.xml" value="0.176" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/layout/prod_frag.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/layout/product_details.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/layout/profile.xml" value="0.176" />
+        <entry key="..\:/Users/hp/Desktop/MyApplication2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.16510416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
