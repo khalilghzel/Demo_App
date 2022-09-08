@@ -7,6 +7,7 @@ so in this app i've used :
 <ul>
 <li> MVVM Architecture </li>
 <li> ROOM: for cashing data </li>
+<li> Coroutines</li>
 <li> Retrofit 2 : for networks calls </li>
 <li> HILT for the dependency injections </li>
 <li> Navigation Components </li>
